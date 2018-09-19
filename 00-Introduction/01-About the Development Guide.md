@@ -2,7 +2,7 @@
 
 Welcome to the OWASP Development Guide 3.0
 
-This guide has been re-written from the ground up, multiple times until it came to the current state. It has been expanded, shrunk and rebuild under multiple leaders as this is a hard subject.
+This guide has been re-written from the ground up, multiple times until it came to the current state. It has been expanded, shrunk and rebuilt under multiple leaders as this is a hard subject.
 Where the previous guides tried to be a single stop of all information we decided to have a new approach and separated the language specific examples from the language agnostic principles. This allows adding coding examples for new languages without having to rewrite the whole guide. This meant that the current form has been divided into a couple of components:
 1. This guide that has the overall information
 2. A companion website that has code examples in various coding languages
